@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LEE_SS_LIB"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = 'A short description of LEE_SS_LIB.'
   s.description  = <<-DESC
                   LEE_SS_LIB Http and Socks proxy based on Privoxy and Antinat.
